@@ -1,0 +1,10 @@
+create mode 100644 ft_strmapi.c
+ create mode 100644 ft_strncmp.c
+ create mode 100644 ft_strnstr.c
+ create mode 100644 ft_strrchr.c
+ create mode 100644 ft_strstr.c
+ create mode 100644 ft_strtrim.c
+ create mode 100644 ft_substr.c
+ create mode 100644 ft_tolower.c
+ create mode 100644 ft_toupper.c
+ create mode 100644 libft.h
